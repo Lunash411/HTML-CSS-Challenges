@@ -132,6 +132,9 @@ footer {
 .giraffe h2 {
   color: #F4743B;
 }
+.news{
+  text-align: center;
+}
 
 .card {
   display: inline-block;
